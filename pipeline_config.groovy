@@ -7,8 +7,5 @@
 libraries{
   merge = true 
   sonarqube
-  example {
-    number =3
-    message = "whatever"
-  }
+  
 }
