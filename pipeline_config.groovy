@@ -7,6 +7,6 @@
 libraries{
   merge = true 
   sonarqube
-  gradle
+  
   myLib
 }
