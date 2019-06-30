@@ -7,6 +7,5 @@
 libraries{
   merge = true 
   sonarqube
-  
-  myLib
+
 }
