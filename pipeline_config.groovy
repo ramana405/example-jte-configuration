@@ -6,6 +6,6 @@
 */
 libraries{
   merge = true 
-  sonarqube
+  dotnet
 
 }
