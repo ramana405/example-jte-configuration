@@ -1,7 +1,2 @@
-unit_test()
+
 build()
-static_code_analysis()
-printNything()
-qq()
-printStep()
-printStep.sayHello()
