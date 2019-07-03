@@ -1,2 +1,7 @@
 build()
 build.test1()
+SCA_Sonar()
+Unit_Test()
+Package()
+Upload_Artifact()
+Deploy()
