@@ -12,6 +12,10 @@ application_environments {
 }
 libraries{
   //merge = true 
-  dotnet
-
+  build
+  sca_sonar
+  unit_test
+  package
+  upload_artifact
+  deploy
 }
