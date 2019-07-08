@@ -11,7 +11,7 @@ application_environments {
   }
 }
 libraries{
-  merge = true 
+  //merge = true 
   build
   sca_sonar
   unit_test
