@@ -15,7 +15,7 @@ libraries{
   build
   sca_sonar
   unit_test
-  package_artifact
+  //package_artifact
   upload_artifact
   deploy
   tosca_testing
