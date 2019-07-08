@@ -15,7 +15,7 @@ libraries{
   build
   sca_sonar
   unit_test
-  package
+  package_artifact
   upload_artifact
   deploy
 }
