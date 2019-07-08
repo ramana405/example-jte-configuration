@@ -1,5 +1,4 @@
 build()
-build.test1()
 sca_sonar()
 unit_test()
 package_artifact()
