@@ -18,4 +18,6 @@ libraries{
   package_artifact
   upload_artifact
   deploy
+  tosca_testing
+  deploy_qa
 }
