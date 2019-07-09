@@ -1,5 +1,5 @@
 build()
-//sca_sonar()
+sca_sonar()
 //unit_test()
 //package_artifact()
 //upload_artifact()
